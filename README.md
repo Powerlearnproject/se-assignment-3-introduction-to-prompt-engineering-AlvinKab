@@ -71,7 +71,7 @@ Prompt engineering is the process of tailoring prompts(instructions fed into a m
 - *"Renewable energy reduces greenhouse gas emissions, which helps combat climate change."*
 - *"Investing in renewable energy can create new jobs and stimulate economic growth."*
 
-*Constraints:
+*Constraints:*
 - *Mention at least three benefits.*
 - *Ensure the explanation is easy to understand for people without a technical background.*
 
